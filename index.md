@@ -25,7 +25,7 @@ I am a Computing Science Master's student at Radboud University with a love for 
 - Working for a research group of the interdisciplinary research hub on digitalization and society
 - Literature review on fair design pattern on the web in regards to the Unfair commercial practices directive of the EU}
 
-**Student Assistant to include sustainability in the Computing Science Curriculum** (Nijmegen, Netherlands   
+**Student Assistant to include sustainability in the Computing Science Curriculum** (Nijmegen, Netherlands)   
 *Radboud University*
 - Supporting the development of a course for sustainability in ICT
 - Taking part in a [project of teacher-student collaborations to integrate sustainability as an integral part of the curriculum](https://www.ru.nl/en/research/research-projects/you-have-a-part-to-play) in various courses
@@ -98,7 +98,7 @@ I am a Computing Science Master's student at Radboud University with a love for 
 **Programming:** Python, C++, Java, C, Visual Basics, Haskell, SQL    
 **Technical Skills:** Linux, \LaTeX, Git, Markdown, SPSS   
 **Soft Skills:**  Critical Thinking, Problem-solving, Teamwork, Perseverance, Mediating, Presentations    
-**German:** Native proficiency
+**German:** Native proficiency   
 **English** Professional proficiency (Cambridge C1 certification from 2016)   
 **Dutch:** Fluent in reading and speaking   
 **Latin:** Qualifying Examination
