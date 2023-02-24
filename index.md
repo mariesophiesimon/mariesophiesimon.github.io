@@ -1,5 +1,5 @@
 # About me
-I am a Computing Science Master's student at Radboud University with a love for travelling and living abroad. My special interest is in the way we can use technology to have a positive impact on society. Whether it is about improving current standards in Computing Science or using Computing Science to improve everyone's lives, I want to have a positive impact on the world. With my critical thinking, I always see room for improvement, while my pragmatic way of problem-solving allows me to prioritise and come to satisfying solutions. 
+I am a Computing Science Master's student at Radboud University with a love for experiencing new cultures, the outdoors, academics, socializing and social engagement. My special interest is to explore the way we can use technology to improve society. Whether it is applying data mining techniques to suggest better metrics for welfare, addressing algorithmic bias through methodological suggestions or improving computing science education to advance societal thinking, I want to have a positive impact on the world. With my critical thinking, I always see room for improvement, while my pragmatic way of problem-solving allows me to prioritise and come to satisfying solutions. 
 
 # Education
 **Radboud University**  (Nijmegen, Netherlands)  
@@ -96,7 +96,7 @@ I am a Computing Science Master's student at Radboud University with a love for 
 
 # Skills & Languages
 **Programming:** Python, C++, Java, C, Visual Basics, Haskell, SQL    
-**Technical Skills:** Linux, \LaTeX, Git, Markdown, SPSS   
+**Technical Skills:** Linux, LaTeX, Git, Markdown, SPSS   
 **Soft Skills:**  Critical Thinking, Problem-solving, Teamwork, Perseverance, Mediating, Presentations    
 **German:** Native proficiency   
 **English** Professional proficiency (Cambridge C1 certification from 2016)   
