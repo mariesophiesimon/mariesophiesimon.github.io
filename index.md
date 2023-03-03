@@ -1,4 +1,4 @@
-# Me in a nutshell
+# About Me
 I am a Computing Science Master's student at Radboud University with a love for experiencing new cultures, the outdoors, academics, socializing and social engagement. My special interest is to explore the way we can use technology to improve society. Whether it is applying data mining techniques to suggest better metrics for welfare, addressing algorithmic bias through methodological suggestions or improving computing science education to advance societal thinking, I want to have a positive impact on the world. With my critical thinking, I always see room for improvement, while my pragmatic way of problem-solving allows me to prioritise and come to satisfying solutions. 
 
 # Education
