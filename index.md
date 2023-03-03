@@ -1,4 +1,4 @@
-# About me
+# Me in a nutshell
 I am a Computing Science Master's student at Radboud University with a love for experiencing new cultures, the outdoors, academics, socializing and social engagement. My special interest is to explore the way we can use technology to improve society. Whether it is applying data mining techniques to suggest better metrics for welfare, addressing algorithmic bias through methodological suggestions or improving computing science education to advance societal thinking, I want to have a positive impact on the world. With my critical thinking, I always see room for improvement, while my pragmatic way of problem-solving allows me to prioritise and come to satisfying solutions. 
 
 # Education
@@ -10,8 +10,8 @@ I am a Computing Science Master's student at Radboud University with a love for 
 **Radboud University** (Nijmegen, Netherlands)  
 *Bachelor of Science Degree in Computing Science*   
 - Cyber Security specialisation
-- [Sustainability testimony](https://www.ru.nl/sustainability/education/sustainability-testimony/) including 21ECs in courses about sustainability (social or ecological) and a thesis on a sustainability topic)
-- Thesis: [''Judging a Tweet's credibility ---  The effect of signature labels on perceived Tweet credibility''](https://www.cs.ru.nl/bachelors-theses/2022/Marie-Sophie_Simon___1023848___Judging_a_Tweets_credibility_-_The_effect_of_signature_labels_on_perceived_Tweet_credibility.pdf) (grade 9, equivalent to 90\%)
+- [Sustainability testimony](https://www.ru.nl/sustainability/education/sustainability-testimony/) including 21ECs in courses about sustainability (social or ecological) and a thesis on a sustainability topic
+- Thesis: [''Judging a Tweet's credibility ---  The effect of signature labels on perceived Tweet credibility''](https://www.cs.ru.nl/bachelors-theses/2022/Marie-Sophie_Simon___1023848___Judging_a_Tweets_credibility_-_The_effect_of_signature_labels_on_perceived_Tweet_credibility.pdf) (grade 9, equivalent to 90%)
 
 **Ursulinen Schule Hersel, Mädchengymnasium** (Hersel, Germany)   
 **Higher education entrance qualification (A-levels)*
