@@ -10,20 +10,20 @@ I am a Computing Science Master's student at Radboud University with a love for 
 **Radboud University** (Nijmegen, Netherlands)  
 *Bachelor of Science Degree in Computing Science*   
 - Cyber Security specialisation
-- [Sustainability testimony](https://www.ru.nl/sustainability/education/sustainability-testimony/) including 21ECs in courses about sustainability (social or ecological) and a thesis on a sustainability topic}\
+- [Sustainability testimony](https://www.ru.nl/sustainability/education/sustainability-testimony/) including 21ECs in courses about sustainability (social or ecological) and a thesis on a sustainability topic)
 - Thesis: [''Judging a Tweet's credibility ---  The effect of signature labels on perceived Tweet credibility''](https://www.cs.ru.nl/bachelors-theses/2022/Marie-Sophie_Simon___1023848___Judging_a_Tweets_credibility_-_The_effect_of_signature_labels_on_perceived_Tweet_credibility.pdf) (grade 9, equivalent to 90\%)
 
 **Ursulinen Schule Hersel, Mädchengymnasium** (Hersel, Germany)   
 **Higher education entrance qualification (A-levels)*
 - Passed with 1.2 average (equivalent to about 94%)
 - Specialised in Math, Physics, English and Philosophy
-- Received the [special book award](https://www.dpg-physik.de/auszeichnungen/dpg-preise/abiturpreis) of the [German Physical Society (DPG)]()https://www.dpg-physik.de/) for outstanding performance in physics classes}
+- Received the [special book award](https://www.dpg-physik.de/auszeichnungen/dpg-preise/abiturpreis) of the [German Physical Society (DPG)]()https://www.dpg-physik.de/) for outstanding performance in physics classes
 
 # Work Experience
 **Research Assistant** (Nijmegen, Netherlands)    
 [*iHub, Radboud University*](https://ihub.ru.nl/)
 - Working for a research group of the interdisciplinary research hub on digitalization and society
-- Literature review on fair design pattern on the web in regards to the Unfair commercial practices directive of the EU}
+- Literature review on fair design pattern on the web
 
 **Student Assistant to include sustainability in the Computing Science Curriculum** (Nijmegen, Netherlands)   
 *Radboud University*
@@ -36,12 +36,12 @@ I am a Computing Science Master's student at Radboud University with a love for 
 
 **Student Assistant for various courses** (Nijmegen, Netherlands)   
 *Radboud University*
-- *Courses:* Imperative Programming, Languages & Automata, Combinatorics, Calculus, Hacking in C, Algorithms & Data Structures}
+- *Courses:* Imperative Programming, Languages & Automata, Combinatorics, Calculus, Hacking in C, Algorithms & Data Structures
 - Teaching students, guiding in the work of assignments, grading students' homework and giving feedback on homework
 
 **Part of the promotion team for the German Testing Board** (München, Germany)   
 - Building up, taking down and hosting a stand at the OOP conference to attract customers
-- Recruiting new customers as well as answering questions and inquiries}
+- Recruiting new customers as well as answering questions and inquiries
 - Joining keynote speeches and social networking events of the conference
 
 # Volunteering Experience
@@ -81,10 +81,9 @@ I am a Computing Science Master's student at Radboud University with a love for 
 
 # Academic Interests
 **Sustainability integrated with Computing Science**   
-*Defined broadly in the 17 Sustainability Development Goals  of the United Nations**
+*Defined broadly in the 17 Sustainability Development Goals  of the United Nations*
 - *Courses:* Sustainability Development Goals; Climate Crisis; Psychology of Happiness
 - *Project Information Retrieval:* Can diversifying algorithms give a more fair representation of information?
-- *Project Judgment and Decision Making:* Combating Implicit Bias in Medical Diagnoses through Information Science techniques
 - *Project Philosophy & Ethics for Computing Scientists:* Giving machines rights and the possible consequences under a viewpoint of ecological and social sustainability; The ethics behind smart and sustainable cities
 
 **Science and Society**    
