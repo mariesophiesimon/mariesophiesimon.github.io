@@ -1,10 +1,10 @@
 # About Me
-I am a Computing Science Master's student at Radboud University with a love for experiencing new cultures, the outdoors, academics, socializing and social engagement. My special interest is to explore the way we can use technology to improve society. Whether it is applying data mining techniques to suggest better metrics for welfare, addressing algorithmic bias through methodological suggestions or improving computing science education to advance societal thinking, I want to have a positive impact on the world. With my critical thinking, I always see room for improvement, while my pragmatic way of problem-solving allows me to prioritise and come to satisfying solutions. 
+I am a Computing Science Master's student at Radboud University striving to have a positive impact on our society and provide a sustainable future for humans as well as nature. In my eyes, the field of computing science is only gaining more relevance in the ways that it will be applied and does not exist in a vacuum but is an integral part of our society. As such, it plays an innate role in either amplifying or alleviating the issues in our world. My goal is to explore ways in which we can use technology and education for technology to provide a better future for every living creature in our world. Hereby, my critical thinking allows me to always see room for improvement, my open-mindedness and curiosity allow me to constantly search for new perspectives and input and my pragmatic way of problem-solving allows me to prioritise and come to satisfying solutions. 
 
 # Education
 **Radboud University**  (Nijmegen, Netherlands)  
 *Master of Science Degree in Computing Science*   
-- Data Science specialisation of Computing Science
+- Data Science specialisation in Computing Science
 - Faculty-wide specialisation Science in Society focusing on the interaction between science and society
 
 **Radboud University** (Nijmegen, Netherlands)  
@@ -23,7 +23,7 @@ I am a Computing Science Master's student at Radboud University with a love for 
 **Research Assistant** (Nijmegen, Netherlands)    
 [*iHub, Radboud University*](https://ihub.ru.nl/)
 - Working for a research group of the interdisciplinary research hub on digitalization and society
-- Literature review on fair design pattern on the web
+- Literature review on fair design patterns and user autonomy on the web
 
 **Student Assistant to include sustainability in the Computing Science Curriculum** (Nijmegen, Netherlands)   
 *Radboud University*
@@ -37,19 +37,19 @@ I am a Computing Science Master's student at Radboud University with a love for 
 **Student Assistant for various courses** (Nijmegen, Netherlands)   
 *Radboud University*
 - *Courses:* Imperative Programming, Languages & Automata, Combinatorics, Calculus, Hacking in C, Algorithms & Data Structures
-- Teaching students, guiding in the work of assignments, grading students' homework and giving feedback on homework
+- Teaching students, guiding them in the work of assignments, grading students' homework and giving feedback on homework
 
 **Part of the promotion team for the German Testing Board** (München, Germany)   
 - Building up, taking down and hosting a stand at the OOP conference to attract customers
 - Recruiting new customers as well as answering questions and inquiries
-- Joining keynote speeches and social networking events of the conference
+- Joining keynote speeches and social networking events at the conference
 
 # Volunteering Experience
 **Various Committees of the Study Association Thalia**
 - Initiating the founding of a Diversity and Inclusion Committee
 - Chair of the Partner Committee
 - Lustrum Committee 
-- Co-Founder and chair of the International Committee
+- Co-founder and chair of the International Committee
     
 **Elected member of the University Student Council of Radboud University**
 - Representation of the student body in the joint assembly with the Workers Council and Executive Board of Radboud
@@ -62,7 +62,7 @@ I am a Computing Science Master's student at Radboud University with a love for 
 **Chair of the 30th Board of the Study Association Thalia**
 - Ensuring the smooth running of the board and association
 - Planning, creating agendas and chairing the weekly board meetings and the general member meetings
-- Representing the association to outside parties, like other assocations and the university
+- Representing the association to outside parties, like other associations and the university
 
 # Abroad Experiences
 **Studying in the Netherlands**    
@@ -76,7 +76,7 @@ I am a Computing Science Master's student at Radboud University with a love for 
 - Three-month stay in Banff to work in the food industry and in a hostel
 
 **Student Exchange with St Margaret Anglican Girls School in Australia**   
-*A two-and-a-half-week guided round trip and three months living in a host family*
+*A two-and-a-half-week guided round trip and three months living with a host family*
 - Living three months in a host family and taking a student in for three months on return
 
 # Academic Interests
