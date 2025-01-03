@@ -110,8 +110,8 @@ I am a Computing Science Master's student at Radboud University with a love for 
 
 # Skills & Languages
 **Programming:** Python (Pandas, NumPy, Scikit‑learn, TensorFlow, PyTorch), C++, R, Java, C, VBA, Haskell, SQL    
-**Technical Skills:** Linux, LaTeX, , Machine Learning, Natural Language Processing, Kaggle, Git, Markdown, SPSS   
-**Soft Skills:**  Critical Thinking, Problem-solving, Teamwork, Perseverance, Mediating, Presentations    
+**Technical Skills:** Linux, LaTeX, Machine Learning, Natural Language Processing, Kaggle, Git, Markdown, SPSS   
+**Soft Skills:**  Critical Thinking, Problem‑solving, Perseverance, Teamwork, Project management, Presentations    
 **German:** Native proficiency   
 **English** Professional proficiency (Cambridge C1 certification from 2016)   
 **Dutch:** Fluent in reading and speaking   
