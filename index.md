@@ -4,7 +4,8 @@ I am a Computing Science Master's student at Radboud University with an ambition
 # Content
 - [Curriculum Vitae](cv.md)
 - [Research](research.md)
-- [Public Appearances](public.md)
+- [Public Appearances](public.md)  
+
 <!---
 - [Data Science Projects](datascience.md)
 - [Science in Society Projects](sis.md)
