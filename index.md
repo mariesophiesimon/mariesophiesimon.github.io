@@ -7,9 +7,8 @@ I am originally from Germany, studied **Computing Science** at Radboud Universit
 - [Curriculum Vitae](cv.md)
 - [Research](research.md)
 - [Public Appearances](public.md)  
-
-<!---
 - [Data Science Projects](datascience.md)
+<!---
 - [Science in Society Projects](sis.md)
 - [Academic Interests](academicInterest.md)  
 --->
